@@ -3,15 +3,6 @@ Atividade Robocode – POO
 Este repositório contém os dois robôs desenvolvidos para a atividade da disciplina de Programação Orientada a Objetos (POO).
 O objetivo do trabalho é aplicar conceitos fundamentais de orientação a objetos através da criação de robôs inteligentes no Robocode, utilizando classes, herança, sobrescrita de métodos, eventos e comportamentos autônomos.
 
-👥 Integrantes do Grupo
-
--Rafael Wesley Da Silva Felizardo
-
--Pedro Henrique Costa Dos Santos
-
--Maycon Douglas Da Silva
-
--Márcio Luiz De França Filho
 
 🤖 Robôs Desenvolvidos
 1. MacacosSapientes
